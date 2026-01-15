@@ -1,1 +1,1 @@
-## TEST files for somatic mutations and artifacts labeling
+TEST files for somatic mutations and artifacts labeling
